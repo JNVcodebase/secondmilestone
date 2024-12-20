@@ -13,7 +13,7 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 <!-- ## Project Structure 
  
 ```
-/c:/jupyter/Infosys Intern Project/Detect-the-PPE-Kit-in-Automobile-Manufacturing-Project/
+
 │
 ├── data/
 │   ├── raw/
